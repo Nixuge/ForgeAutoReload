@@ -5,7 +5,7 @@
 ### Safari
 - Dowload the .app version of the extension (if it's zipped extract it)
 - Drag the .app anywhere you want (eg the Applications folder)
-- Launch it once
+- Launch it once. If it you can't because Apple could not verify it, go to Settings>Privacy & Security, scroll down and you should see an "Open Anyway" button.
 - Done, it should now appear in your Safari extension list
 
 ### Chromium
