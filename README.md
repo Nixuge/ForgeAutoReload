@@ -3,14 +3,14 @@
 ## Installing the given builds.
 
 ### Safari
-- Dowload the .app version of the extension
+- Dowload the .app version of the extension (if it's zipped extract it)
 - Drag the .app anywhere you want (eg the Applications folder)
 - Launch it once
 - Done, it should now appear in your Safari extension list
 
 ### Chromium
 #### Using the unpacked extension
-- Download the .zip (chromium) version of the extension and extract it somewhere (!the extracted folder must not be deleted if you want to keep the extension so extract it in eg your documents!)
+- Download the .zip version of the extension and extract it somewhere (!the extracted folder must not be deleted if you want to keep the extension so extract it in eg your documents!)
 - Go to chrome://extensions
 - Enable developer mode (top right)
 - Click "Load unpacked"
