@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "ForgeAutoReload",
+  "version": "1.0",
+  "description": "Reload the forge tags without having to reload the whole page",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://intra.forge.epita.fr/*/*/*/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "32": "icons/icon32.png",
+    "64": "icons/icon64.png",
+    "128": "icons/icon128.png"
+  }
+}
+  
